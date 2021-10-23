@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/olivianasrl/AndroidStudioProjects/afritality/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/olivianasrl/.gradle/caches/transforms-2/files-2.1/c20e34fff68e6171d3b089807b297ae8/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/olivianasrl/AndroidStudioProjects/afritality/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/olivianasrl/.gradle/caches/transforms-2/files-2.1/c20e34fff68e6171d3b089807b297ae8/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/olivianasrl/AndroidStudioProjects/afritality/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/olivianasrl/.gradle/caches/transforms-2/files-2.1/c20e34fff68e6171d3b089807b297ae8/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

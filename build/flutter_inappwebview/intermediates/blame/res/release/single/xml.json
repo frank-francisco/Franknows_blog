@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/olivianasrl/AndroidStudioProjects/afritality/build/flutter_inappwebview/intermediates/res/merged/release/xml/image_share_filepaths.xml",
+        "source": "/Users/olivianasrl/.gradle/caches/transforms-2/files-2.1/a84f670f0181cf77145be642377d1eca/browser-1.2.0/res/xml/image_share_filepaths.xml"
+    },
+    {
+        "merged": "/Users/olivianasrl/AndroidStudioProjects/afritality/build/flutter_inappwebview/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/Users/olivianasrl/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappwebview-4.0.0+4/android/src/main/res/xml/provider_paths.xml"
+    }
+]

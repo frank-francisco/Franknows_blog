@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/olivianasrl/AndroidStudioProjects/afritality/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/olivianasrl/.gradle/caches/transforms-2/files-2.1/fb8787ce6bbe82adbc92ee725ada48f7/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/olivianasrl/AndroidStudioProjects/afritality/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/olivianasrl/.gradle/caches/transforms-2/files-2.1/fb8787ce6bbe82adbc92ee725ada48f7/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/olivianasrl/AndroidStudioProjects/afritality/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/olivianasrl/.gradle/caches/transforms-2/files-2.1/fb8787ce6bbe82adbc92ee725ada48f7/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]
